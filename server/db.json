@@ -1,13 +1,34 @@
 {
   "users": [
     {
-      "id": 1,
-      "user_name": "Nguyen van a",
-      "gender": "0",
-      "address": "Ha Noi",  
-      "dateOfBirth": "11-11-2001",  
-      "email": "an@gmail.com",
-      "password": "1234567"
+      "email": "delay001@gmail.com",
+      "password": "$2a$10$TN.4Jj54xy.XLAz3Hc3sO..UI4u6VHQvUzaR6ihhSGm5mzCe97wg2",
+      "user_name": "Nguyen viet anh",
+      "gender": 0,
+      "address": "Ha noi",
+      "dateOfBirth": "2222-02-22",
+      "role":0,
+      "id": 2
+    },
+    {
+      "email": "sontungmt202001@gmail.com",
+      "password": "$2a$10$HZrbpXIl0pyd.wUhQ6Pzv.dJqOJtLn5bTmpBanx7f5hR8desFZj9i",
+      "user_name": "Nguyen Van Quy",
+      "gender": 0,
+      "address": "Hà Nội",
+      "dateOfBirth": "1111-11-11",
+      "role":1,
+      "id": 3
+    },
+    {
+      "email": "rikkei@gmail.com",
+      "password": "$2a$10$pc1dm4Mg.IKR9yE17l.OiuG9cnI7MUp7Xt8c9slBZ2BqGL.S2ex0O",
+      "user_name": "trần văn ca",
+      "gender": 0,
+      "address": "Hà Nội",
+      "dateOfBirth": "2023-09-12",
+      "role":1,
+      "id": 4
     }
   ],
   "products": [

@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import "./manager-product/product.css";
-import {notification} from "antd"
+import "./product.css";
+import { notification } from "antd";
 
-export default function FormAdd({ handleCloseForm ,loadData}) {
-  const [product, setProduct] = useState  ({
+export default function FormAdd({ handleCloseForm, loadData }) {
+  const [product, setProduct] = useState({
     product_name: "",
     price: 0,
     from: "",
