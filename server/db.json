@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_name": "Nguyen van a",
+      "gender": "0",
+      "address": "Ha Noi",  
+      "dateOfBirth": "11-11-2001",  
+      "email": "an@gmail.com",
+      "password": "1234567"
+    }
+  ],
+  "products": [
+    {
+      "product_name": "Bưởi 5 roi 12",
+      "price": 15000,
+      "from": "Hà Nội",
+      "id": 1
+    },
+    {
+      "product_name": "Bưởi lê",
+      "price": 12000,
+      "from": "Hà Nội",
+      "id": 2
+    },
+    {
+      "product_name": "Bưởi xoài",
+      "price": 13000,
+      "from": "Hà Nội",
+      "id": 3
+    },
+    {
+      "product_name": "Hoa cúc",
+      "price": 120000,
+      "from": "Đà Lạt",
+      "id": 4
+    }
+  ]
+}
